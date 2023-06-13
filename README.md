@@ -11,3 +11,7 @@ Using the auto screen print of my driver, the program create a figure making set
 ## Gravity logic
 The program use an AND mask between the screen line and 1 line below this. Then whith and OR mask the pixels get back 1 line, and if there some pixels in the 2 lines the bits r restored using an OR mask whith the previous AND mask result.
 
+## Move to right or left
+This is a little bit more complex, the program use some AND, OR and XOR process to can complete the displacement
+
+* First, use an 
