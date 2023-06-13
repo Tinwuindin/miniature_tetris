@@ -1,7 +1,7 @@
 # Miniature_tetris
 Tetris game based on PIC16F887
 
-This is a port of the Tetris game using a PIC16F887, a LCD 16x2 and 4 buttons.
+This is a port of the Tetris game using a PIC16F887, a LCD 16x2 and 4 buttons. Include a simulation with Proteus 8.12 project
 
 This little game have a start button, fast fall and move (right or left) buttons.
 
